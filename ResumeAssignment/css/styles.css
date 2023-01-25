@@ -1,13 +1,14 @@
 /* Global Styles
 ---------------------------------------------------*/
 body {
-
+background-color: burlywood;
 }
 
 img {
     width: 300px;
 }
-
+a {color: rgb(53, 11, 151); background-color: blue; text-decoration: none; padding: 8px; border-radius: 4px; -webkit-text-fill-color: azure;}
+a:hover {background: rgba(53, 11, 151, 0.641);}
 /*Profile
 ---------------------------------------------------*/
 header {background-color: rgb(0, 145, 145);}
